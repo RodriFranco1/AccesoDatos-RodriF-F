@@ -1,0 +1,1 @@
+Este proyecto lee un catálogo de 50 Pokémon desde un fichero JSON, calcula algunas estadísticas y guarda los resultados en un informe de texto. El informe se genera íntegramente con código, sin escribir ningún dato a mano.
